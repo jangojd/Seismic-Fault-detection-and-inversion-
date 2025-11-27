@@ -2,10 +2,8 @@
 
 Reproduction of Zheng et al. (2019) paper implementing CNNs for seismic data analysis.
 
-<div align="center">
-  <img src="https://github.com/jangojd/Seismic-Fault-detection-and-inversion-/blob/43ddbf62101e7957dcd14e70573730e39ef8b281/Seismic_inversion_Fault_detection.ipynb" alt="Project Results" width="800">
-  <p><em>Training results for fault detection and seismic inversion models</em></p>
-</div>
+# Results
+![Alt text](https://github.com/jangojd/Seismic-Fault-detection-and-inversion-/blob/f53ce782c478a5ffd7865055da08201e653f248f/download.png)
 
 ## Two Case Studies
 
